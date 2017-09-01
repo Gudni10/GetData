@@ -1,0 +1,16 @@
+body {
+	background-color: Aqua;
+	font-family: sans-serif;
+}
+
+.user-content:hover {
+	background-color: #000000;
+}
+
+p, h4 {
+	color: Aqua;
+}
+p:hover, h4:hover{
+	color: White;
+	font-size: 30px;
+}
